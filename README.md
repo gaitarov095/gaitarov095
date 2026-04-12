@@ -23,6 +23,9 @@
 ---
 
 ### 🛠️ Технологии и навыки
+
+---
+
 <p align="left">
   <img src="https://shields.io" />
   <img src="https://shields.io" />

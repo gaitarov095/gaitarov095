@@ -27,7 +27,7 @@
 
 ## 💻 Frontend
 <p align="left">
-  <img src="https://thesvg.org/icons/html5/default.svg" />
+  <img src="html5-64px.png" />
   <img src="https://shields.io" />
   <img src="https://shields.io" />
   <img src="https://shields.io" />

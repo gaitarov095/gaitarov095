@@ -84,19 +84,7 @@
 
 ---
 
-### 📊 Моя статистика / My Statistics
-<p align="center">
-  <img src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)" width="48%" />
-  <img src="https://vercel.app" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://herokuapp.com" />
-</p>
-
----
-
 ### 📫 Как со мной связаться / How to contact with me?
 <p align="left">
-<a href="https://t.me/meldar095_work" target="blank"><img align="center" src="telegram-32px.png" alt="telegram" height="30" width="40" /></a>
+<a href="https://t.me/meldar095_work" target="blank"><img align="center" src="telegram-32px.png" alt="telegram" height="32" width="32" /></a>
 </p>

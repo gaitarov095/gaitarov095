@@ -25,6 +25,7 @@
 ### 🛠️ Технологии и навыки
 ---
 
+## 💻 Frontend
 <p align="left">
   <img src="https://shields.io" />
   <img src="https://shields.io" />

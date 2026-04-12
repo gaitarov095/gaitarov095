@@ -86,7 +86,7 @@
 
 ### 📊 Моя статистика / My Statistics
 <p align="center">
-  <img src="https://vercel.app" width="48%" />
+  <img src="/api?username=Mr-Eldar" width="48%" />
   <img src="https://vercel.app" width="48%" />
 </p>
 

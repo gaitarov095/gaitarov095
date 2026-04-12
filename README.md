@@ -86,7 +86,7 @@
 
 ### 📊 Моя статистика / My Statistics
 <p align="center">
-  <img src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr-Eldar)](https://github.com/anuraghazra/github-readme-stats)" width="48%" />
+  <img src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrEldar.95)](https://github.com/anuraghazra/github-readme-stats)" width="48%" />
   <img src="https://vercel.app" width="48%" />
 </p>
 

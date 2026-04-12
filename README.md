@@ -28,13 +28,15 @@
 ## 💻 Frontend
 <p align="left">
   <img src="html5-64px.png" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
+  <img src="css-64px.png" />
+  <img src="tailwind-css-64px.png" />
+  <img src="sass-64px.png" />
+  <img src="bootstrap-64px.png" />
+  <img src="material-ui-64px.png" />
+  <img src="javascript-64px.png" />
+  <img src="typescript-64px.png" />
+  <img src="vue-64px.png" />
+  <img src="react-64px.png" />
 </p>
 
 ---

@@ -22,8 +22,9 @@
 
 ---
 
-### 🛠️ Технологии
+### 🛠️ Технологии и навыки
 <p align="left">
+  <img src="https://shields.io" />
   <img src="https://shields.io" />
   <img src="https://shields.io" />
   <img src="https://shields.io" />
@@ -49,5 +50,5 @@
 
 ### 📫 Как со мной связаться
 <p align="left">
-<a href="https://t.me" target="blank"><img align="center" src="https://githubusercontent.com" alt="telegram" height="30" width="40" /></a>
+<a href="https://t.me/meldar095_work" target="blank"><img align="center" src="https://githubusercontent.com" alt="telegram" height="30" width="40" /></a>
 </p>

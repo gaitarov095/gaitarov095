@@ -52,6 +52,18 @@
   <img src="supabase-64px.png" />
 </p>
 
+## 🛠️ Version Control
+<p align="left">
+  <img src="git-64px.png" />
+  <img src="github-64px.png" />
+</p>
+
+## ⚙️ Other
+<p align="left">
+  <img src="powershell-64px.png" />
+  <img src="powertoys-64px.png" />
+</p>
+
 ---
 
 ### 📊 Моя статистика
@@ -68,5 +80,5 @@
 
 ### 📫 Как со мной связаться
 <p align="left">
-<a href="https://t.me/meldar095_work" target="blank"><img align="center" src="https://githubusercontent.com" alt="telegram" height="30" width="40" /></a>
+<a href="https://t.me/meldar095_work" target="blank"><img align="center" src="telegram-32px.png" alt="telegram" height="30" width="40" /></a>
 </p>

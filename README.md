@@ -27,7 +27,7 @@
 
 ## 💻 Frontend
 <p align="left">
-  <img src="[https://shields.io"](https://itproger.com/img/courses/1476977240.jpg) />
+  <img src="https://itproger.com/img/courses/1476977240.jpg" />
   <img src="https://shields.io" />
   <img src="https://shields.io" />
   <img src="https://shields.io" />

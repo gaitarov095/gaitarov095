@@ -52,8 +52,8 @@
 ### Backend & Database
 [![Backend Skills](https://skillicons.dev/icons?i=py,supabase,neon,bun,npm,git,github,powershell,postman)](https://skillicons.dev)
 
-### Tools
-[![Tools Skills](https://skillicons.dev/icons?i=vscode,notion,powertoys)](https://skillicons.dev)
+### Tools & Software
+[![Tools Skills](https://skillicons.dev/icons?i=windows,vscode,pycharm,notion,powertoys,photoshop)](https://skillicons.dev)
 
 ---
 

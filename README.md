@@ -47,7 +47,7 @@
 ### 🛠️ Технологии и навыки / Skills
 
 ### Frontend
-[![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,scss,vite)](https://skillicons.dev)
+[![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,bootstrap,scss)](https://skillicons.dev)
 
 ### Backend & Database
 [![Backend Skills](https://skillicons.dev/icons?i=py,supabase,bun,npm,github,powershell,git,postman)](https://skillicons.dev)

@@ -50,7 +50,7 @@
 [![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,scss,vite)](https://skillicons.dev)
 
 ### Backend & Database
-[![Backend Skills](https://skillicons.dev/icons?i=py,supabase,bun,npm,git,github,powershell,postman)](https://skillicons.dev)
+[![Backend Skills](https://skillicons.dev/icons?i=py,supabase,bun,npm,github,powershell,git,postman)](https://skillicons.dev)
 
 ### Tools & Software
 [![Tools Skills](https://skillicons.dev/icons?i=windows,vscode,pycharm,notion,photoshop)](https://skillicons.dev)

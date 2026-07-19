@@ -60,8 +60,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=gaitarov095&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaitarov095&layout=compact&theme=tokyonight&hide_border=true" />
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaitarov095)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 ### 🔥 Streak Stats

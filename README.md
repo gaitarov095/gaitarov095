@@ -54,11 +54,3 @@
 
 ### Tools & Software
 [![Tools Skills](https://skillicons.dev/icons?i=windows,vscode,pycharm,notion,photoshop)](https://skillicons.dev)
-
----
-
-### 📫 Как со мной связаться / How to contact with me?
-<p align="left">
-<a href="https://t.me/meldar095_work" target="blank"><img align="center" src="telegram-32px.png" alt="telegram" height="32" width="32" /></a>
-<a href="mailto:mreldar.work@gmail.com"><img align="center" src="gmail-32px.png" alt="gmail" height="32" width="32" /></a>
-</p>

@@ -57,14 +57,8 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaitarov095)](https://github.com/anuraghazra/github-readme-stats)
-</p>
-
 ### 🔥 Streak Stats
 
-<p>
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=gaitarov095&theme=tokyonight&hide_border=true" />
 </p>

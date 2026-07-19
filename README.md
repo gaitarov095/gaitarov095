@@ -46,7 +46,14 @@
 
 ### 🛠️ Технологии и навыки / Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python,react,nextjs,tailwind,figma,git)](https://skillicons.dev)
+### Frontend
+[![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,scss,vite)](https://skillicons.dev)
+
+### Backend & Database
+[![Backend Skills](https://skillicons.dev/icons?i=py,supabase,neon,bun,npm,git,github,powershell,postman)](https://skillicons.dev)
+
+### Tools
+[![Tools Skills](https://skillicons.dev/icons?i=vscode,notion,powertoys)](https://skillicons.dev)
 
 ---
 

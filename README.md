@@ -6,37 +6,43 @@
 
 ---
 
+### 🇺🇸 English
+
+### 🚀 About Me
+- 👨‍💻 I’ve been programming since I was **8**. My journey has taken me from **Scratch** to **Full-stack** development.
+- 📱 At age 10, I developed mobile applications using **Java**.
+- 🌐 Currently, I am actively growing in the web development space, striving every day to surpass my past self and become a true professional in my field.
+- 💻 I am also learning to develop Telegram bots; I consider this my secondary area of ​​focus in programming.
+- 🤖 I want to master the **n8n** platform to automate daily routine tasks using AI agents.
+- 📱 I also plan to learn **Flutter** so I can create my own Android applications.
+- 🎂 I am **16 years old**, and I believe that technology can change the world for the better.
+
+---
+
+### 🏔️ My Goals and Dreams
+- [ ] **Chechen Tourism** — a global ecosystem (Web + App + Bot) for tourism development in Chechnya.
+- [ ] **Chechen Language App** — a mobile app for preserving and learning the native language.
+- [ ] **TakeCode** — a platform for developers where anyone can share their best code snippets for others to use.
+- [ ] Become an expert in **AI automation**.
+
+---
+
 ### 🚀 Обо мне
 - 👨‍💻 Программирую с **8 лет**. Прошел путь от **Scratch** до **Fullstack**.
-- 📱 Имею опыт в мобильной разработке (**Java**) и геймдеве (**Unity**).
-- 🌐 Сейчас активно развиваюсь в вебе и создаю умных Telegram-ботов.
-- 🤖 Изучаю **n8n** для автоматизации и создания AI-помощников.
-- 🎂 Мне **15 лет**, и я верю, что технологии могут менять мир к лучшему.
+- 📱 В 10 лет занимался разработкой мобильных приложений на **java**. 
+- 🌐 На данный момент активно развиваюсь в вебе, каждый день пытаюсь превзойти прошлую версию себя, пытаясь стать проффесиональным специалистом в своей деятельности.
+- 💻 Поралельно изучаю разработку телеграмм-ботов, считаю это своей 2 деятельностью в программировании. 
+- 🤖 Хочу изучить платформу **n8n** для того чтобы автоматизировать ежедневную рутину с помощью AI агентов.
+- 📱 Также хочу изучить Flutter для того чтобы научиться создавать свои собственные приложения на Android.
+- 🎂 Мне **16 лет**, и я верю, что технологии могут менять мир к лучшему.
 
 ---
 
 ### 🏔️ Мои цели и мечты
 - [ ] **Chechen Tourism** — глобальная экосистема (Web + App + Bot) для развития туризма в Чечне.
 - [ ] **Chechen Language App** — мобильное приложение для сохранения и изучения родного языка.
+- [ ] **TakeCode** - платформа для разработчиков в которой каждый сможет делиться своими лучшими частями кода, для того чтобы каждый желающий смог воспользоваться этим.
 - [ ] Стать экспертом в **AI-автоматизации**.
-
----
-
-### 🇺🇸 English
-
-### 🚀 About Me
-- 👨‍💻 I've been programming since I was 8 years old. I've worked my way up from Scratch to Fullstack.
-- 📱 I have experience in mobile development (Java) and game development (Unity).
-- 🌐 I'm currently actively developing on the web and creating smart Telegram bots.
-- 🤖 I'm learning n8n for automation and creating AI assistants.
-- 🎂 I'm 15 years old, and I believe that technology can change the world for the better.
-
----
-
-### 🏔️ My Goals and Dreams
-- [ ] Chechen Tourism is a global ecosystem (Web + App + Bot) for the development of tourism in Chechnya.
-- [ ] **Chechen Language App** is a mobile app for preserving and learning your native language.
-- [ ] Become an expert in **AI automation**.
 
 ---
 

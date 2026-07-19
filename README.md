@@ -47,18 +47,10 @@
 ### 🛠️ Tech Stack
 
 #### Frontend
-[![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,scss,vite)](https://skillicons.dev)
+[![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,bootstrap,scss)](https://skillicons.dev)
 
 #### Backend & Database
-[![Backend Skills](https://skillicons.dev/icons?i=py,supabase,neon,bun,npm,git,github,postman)](https://skillicons.dev)
+[![Backend Skills](https://skillicons.dev/icons?i=py,supabase,bun,npm,github,git,postman)](https://skillicons.dev)
 
 #### Tools & Software
-[![Tools Skills](https://skillicons.dev/icons?i=windows,vscode,pycharm,webstorm,figma,notion,powershell,photoshop,powertoys)](https://skillicons.dev)
-
----
-
-### 📌 Currently Working On
-- Building projects in web development.
-- Improving my Python skills for Telegram bots.
-- Learning AI automation and productivity tools.
-- Preparing to grow into a strong full-stack developer.
+[![Tools Skills](https://skillicons.dev/icons?i=windows,vscode,pycharm,webstorm,figma,notion,powershell,photoshop)](https://skillicons.dev)

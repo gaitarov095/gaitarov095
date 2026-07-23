@@ -60,5 +60,5 @@
 ### 🔥 Streak Stats
 
 <p>
-  <img src="https://streak-stats.demolab.com/?user=gaitarov095&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=gaitarov095&theme=onedark&hide_border=true" />
 </p>

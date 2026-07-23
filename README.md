@@ -60,5 +60,5 @@
 ### 🔥 Streak Stats
 
 <p>
-  <img src="https://streak-stats.demolab.com/?user=gaitarov095&theme=catppuccin_latte&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=gaitarov095&theme=react&hide_border=true" />
 </p>
